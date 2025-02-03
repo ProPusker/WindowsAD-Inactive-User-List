@@ -1,0 +1,8 @@
+<Settings>
+    <RegionEndpoint>us-west-2</RegionEndpoint>
+    <BucketName>my-s3-bucket</BucketName>
+    <AccessKeyID>Base64EncodedAccessKeyID</AccessKeyID>
+    <SecretAccessKey>Base64EncodedSecretAccessKey</SecretAccessKey>
+    <SmtpUser>smtp-user@example.com</SmtpUser>
+    <SmtpPassword>Base64EncodedSmtpPassword</SmtpPassword>
+</Settings>
